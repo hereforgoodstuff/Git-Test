@@ -5,5 +5,6 @@ public class Snippet {
 	    public static XPath xPath;
 	    public static Document doc;
 		public static Node node;
+	//To test conflict
 }
 
